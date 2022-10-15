@@ -9,5 +9,3 @@ I have benn programming on older systems, such as the Sega Genesis (Mega Drive),
 The technical limitations helped me write more efficient and effective code.
 
 Now, I have started working on things for the modern computer. 
-
-Let's see where it goes...
