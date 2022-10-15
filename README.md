@@ -2,7 +2,7 @@
 
 Hi. I'm Techiesplash.
 
-I am a hobbyist who has been learning a mix of C#, C++, and C for a while now.
+I am a amateur hobbyist who has been learning a mix of C#, C++, and C for a while now.
 I've now gotten to the point where I can start making stuff.
 
 I have benn programming on older systems, such as the Sega Genesis (Mega Drive), the Nintendo 3DS, and the Nintendo 64.
