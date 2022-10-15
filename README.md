@@ -2,6 +2,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techiesplash)](https://git.io/streak-stats) 
 
+Hi. I'm Techiesplash.
+
+I am a amateur hobbyist who has been learning a mix of C#, C++, and C for a while now, as well as some other languages to a lesser degree.
+I've now gotten to the point where I can start making stuff.
+
+I have benn programming on older systems, such as the Sega Genesis (Mega Drive), the Nintendo 3DS, and the Nintendo 64.
+The technical limitations helped me write more efficient and effective code.
+
+Now, I have started working on things for the modern computer. 
+
+A lot of my repositories are private right now, so you may not be seeing much of what I am working on.
+
+
 <h2>Operating Systems</h2>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -35,15 +48,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-Hi. I'm Techiesplash.
-
-I am a amateur hobbyist who has been learning a mix of C#, C++, and C for a while now, as well as some other languages to a lesser degree.
-I've now gotten to the point where I can start making stuff.
-
-I have benn programming on older systems, such as the Sega Genesis (Mega Drive), the Nintendo 3DS, and the Nintendo 64.
-The technical limitations helped me write more efficient and effective code.
-
-Now, I have started working on things for the modern computer. 
-
-A lot of my repositories are private right now, so you may not be seeing much of what I am working on.
