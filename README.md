@@ -1,14 +1,13 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Techiesplash)](https://git.io/streak-stats) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techiesplash&count_private=true)
+  
 Hi. I'm Techiesplash.
 
 I am a amateur hobbyist who has been learning a mix of C#, C++, and C for a while now, as well as some other languages to a lesser degree.
 I've now gotten to the point where I can start making stuff.
 
 I have been programming on older systems, such as the Sega Genesis (Mega Drive), the Nintendo 3DS, and the Nintendo 64.
-The technical limitations helped me write more efficient and effective code.
 
 Now, I have started working on things for the modern computer. 
 
