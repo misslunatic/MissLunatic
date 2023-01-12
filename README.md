@@ -1,8 +1,8 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techiesplash&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techiesplash&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techiesplash&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techiesplash&langs_count=8&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 Hi. I'm Techiesplash.
 
