@@ -13,19 +13,21 @@ I have been programming on older systems, such as the Sega Genesis (Mega Drive),
 
 Now, I have started working on things for the modern computer. 
 
+My family has recently organized a Limited Liability Company under the name "Mad Star Studio LLC", and we intend to do game development. 
+To facilitate this, we are building our own in-house game engine using MonoGame in C#, titled "Starlight".
+
 A lot of my repositories are private right now, so you may not be seeing much of what I am working on.
+This includes Starlight Engine, a Matchmaker API and Server for Unity, etc.
 
-
-<h2>Operating Systems</h2>
+<h2>Operating Systems I have experience with</h2>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-<h2>Languages I have fiddled with</h2>
+<h2>Languages I have fiddled with (At all, does not mean 'Mastered')</h2>
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,7 +39,7 @@ A lot of my repositories are private right now, so you may not be seeing much of
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<h2>Editors</h2>
+<h2>Editors (Much the same)</h2>
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
