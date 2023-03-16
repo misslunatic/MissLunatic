@@ -17,7 +17,7 @@ My family has recently organized a Limited Liability Company under the name "Mad
 To facilitate this, we are building our own in-house game engine using MonoGame in C#, titled "Starlight".
 
 A lot of my repositories are private right now, so you may not be seeing much of what I am working on.
-This includes Starlight Engine, a Matchmaker API and Server for Unity, etc.
+This includes a Matchmaker API and Server for Unity, etc.
 
 <h2>Operating Systems I have experience with</h2>
 
