@@ -50,3 +50,11 @@ This includes a Matchmaker API and Server for Unity, etc.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+  <h2>Hardware</h2>
+
+- CPU: Ryzen 9 5900X 12-Core CPU
+- GPU: GeForce GTX 1600Ti (MSI Ventus)
+- RAM: 128 GB
+- C/Root Drive: 1TB NVME SSD (WD Black)
+- Storage: 6TB HDD (WD Blue)
