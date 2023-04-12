@@ -14,7 +14,6 @@ I have been programming on older systems, such as the Sega Genesis (Mega Drive),
 Now, I have started working on things for the modern computer. 
 
 My family has recently organized a Limited Liability Company under the name "Mad Star Studio LLC", and we intend to do game development. 
-To facilitate this, we are building our own in-house game engine using MonoGame in C#, titled "Starlight".
 
 A lot of my repositories are private right now, so you may not be seeing much of what I am working on.
 This includes a Matchmaker API and Server for Unity, etc.
