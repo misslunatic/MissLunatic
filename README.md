@@ -53,7 +53,7 @@ This includes a Matchmaker API and Server for Unity, etc.
   <h2>Hardware</h2>
 
 - CPU: Ryzen 9 5900X 12-Core CPU
-- GPU: GeForce GTX 1600Ti (MSI Ventus)
+- GPU: GeForce GTX 1660Ti (MSI Ventus)
 - RAM: 128 GB
 - C/Root Drive: 1TB NVME SSD (WD Black)
 - Storage: 6TB HDD (WD Blue)
