@@ -5,7 +5,6 @@
 Hi, I'm Vincent.
 
 I'm a 17 year old nerd from the desert who likes to code sometimes, be it homebrew, desktop applications, utilities, etc.
-I'm also Aromantic-Asexual and Non-Binary.
 
 <h2>Operating Systems I have experience with</h2>
 
