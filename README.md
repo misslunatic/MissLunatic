@@ -2,9 +2,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Techiesplash?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-Hi, I'm Vincent.
-
-I'm a 17 year old nerd from the desert who likes to code sometimes, be it homebrew, desktop applications, utilities, etc.
+Just a nerd.
 
 <h2>Operating Systems I have experience with</h2>
 
