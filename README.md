@@ -1,4 +1,4 @@
-## Hi, I'm Techiesplash.
+## Hi, I'm Luna.
 ---
 
 I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
